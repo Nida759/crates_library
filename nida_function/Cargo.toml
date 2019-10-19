@@ -1,0 +1,11 @@
+[package]
+name = "nida_function"
+version = "0.1.0"
+authors = ["nida"]
+edition = "2018"
+description = "My first library"
+license = "MIT"
+repository = "https://github.com/Nida759/crates_library"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
